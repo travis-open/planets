@@ -1,2 +1,3 @@
 pluto is a dog
 pluto is not a planet
+plato is a philosopher
